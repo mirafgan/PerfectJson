@@ -1,0 +1,337 @@
+{
+    "data": [
+        {
+            "title": "Espresso Bazlı İçecekler",
+            "products": [
+                {
+                    "title": "Caffe Latte",
+                    "description": "Espresso ve süt",
+                    "prices": {
+                        "short": 35,
+                        "tall": 39,
+                        "grande": 45,
+                        "venti": 50
+                    }
+                },
+                {
+                    "title": "Caffe Americano",
+                    "description": "Espresso ve su",
+                    "prices": {
+                        "short": 32,
+                        "tall": 35,
+                        "grande": 39,
+                        "venti": 34
+                    }
+                },
+                {
+                    "title": "Cappuccino",
+                    "description": "Espresso, buharla ısıtılmış süt ve süt köpüğü",
+                    "prices": {
+                        "short": 35,
+                        "tall": 39,
+                        "grande": 45,
+                        "venti": 50
+                    }
+                },
+                {
+                    "title": "Caramel Macchiato",
+                    "description": "Vanilya şurubu, süt, espresso ve üzerinde karamel sos süslemesi",
+                    "prices": {
+                        "short": 43,
+                        "tall": 50,
+                        "grande": 57,
+                        "venti": 64
+                    }
+                },
+                {
+                    "title": "Latte Macchiato",
+                    "description": "Süt ve üzerine dökülen espresso",
+                    "prices": {
+                        "short": 35,
+                        "tall": 39,
+                        "grande": 45,
+                        "venti": 50
+                    }
+                },
+                {
+                    "title": "Caffe Mocha",
+                    "description": "Espresso, çikolata sosu, süt ve üzerinde çırpılmış krema süslemesi",
+                    "prices": {
+                        "short": 47,
+                        "tall": 53,
+                        "grande": 61,
+                        "venti": 67
+                    }
+                },
+                {
+                    "title": "Ristretto Bianco",
+                    "description": "Ristretto espresso (normal miktarda kahveden, az miktarda su kullanılarak ekle edilen yoğun espresso) ve süt",
+                    "prices": {
+                        "short": 40,
+                        "tall": 48,
+                        "grande": 54,
+                        "venti": 59
+                    }
+                },
+                {
+                    "title": "Flat White",
+                    "description": "Espresso ve süt (Caffe Latte'ye göre daha fazla espresso içerir)",
+                    "prices": {
+                        "short": 40
+                    }
+                },
+                {
+                    "title": "Cartado -6 oz boy 177 ml <br> (Cartado içeceğine özel)",
+                    "description": "İki Risretto espresso (normal miktarda kahveden, az miktarda su kullanılarak elde edilen yoğun espresso) ve az miktarda süt",
+                    "prices": {
+                        "short": 40
+                    }
+                },
+                {
+                    "title": "White Chocolate Mocha",
+                    "description": "Espresso, beyaz çikolata sosu, süt ve üzerinde çırpılmış krema süslemesi",
+                    "prices": {
+                        "short": 48,
+                        "tall": 54,
+                        "grande": 62,
+                        "venti": 68
+                    }
+                },
+                {
+                    "title": "Espresso",
+                    "description": "Espresso",
+                    "prices": {
+                        "Solo (Tek shot) 22,5 ml": 25,
+                        "Doppio (İki shot) 45 ml": 31
+                    }
+                },
+                {
+                    "title": "Espresso Con Panna",
+                    "description": "Espresso ve çırpılmış krema",
+                    "prices": {
+                        "Solo (Tek shot) 22,5 ml": 26,
+                        "Doppio (İki shot) 45 ml": 32
+                    }
+                },
+                {
+                    "title": "Espresso Macchiato",
+                    "description": "Espresso ve süt köpüğü",
+                    "prices": {
+                        "Solo (Tek shot) 22,5 ml": 26,
+                        "Doppio (İki shot) 45 ml": 32
+                    }
+                },
+                {
+                    "title": "Doubleshot Iced Shaken Ekspresso",
+                    "description": "Krema ve süt karışımı, espreso ve buz",
+                    "prices": {
+                        "short": 0,
+                        "tall": 43,
+                        "grande": 50,
+                        "venti": 56
+                    }
+                },
+                {
+                    "title": "Iced Cappuccino",
+                    "description": "Köpük haline getirilmiş soğuk süt, buz, şeker şurubu ve espresso",
+                    "prices": {
+                        "short": 0,
+                        "tall": 43,
+                        "grande": 50,
+                        "venti": 56
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Frappuccino Karışım İçecekler",
+            "products": [
+                {
+                    "title": "Caramel Frappuccino",
+                    "description": "Kahve, süt, karamel şurubu, kar haline getirilmiş buz ve üzerinde çırpılmış krema ve karamel sol süslemesi (İsteğe göre kahvesiz de hazırlanabilmektedir)",
+                    "prices": {
+                        "short": 0,
+                        "tall": 51,
+                        "grande": 58,
+                        "venti": 64
+                    }
+                },
+                {
+                    "title": "Chai Cream Frappuccino",
+                    "description": "Süt, baharatlı siyah çay konsantresi (chai tea), kar haline getirilmiş buz ve üzerinde çırpılmış krema ve çikolata sosu süslemesi",
+                    "prices": {
+                        "short": 0,
+                        "tall": 51,
+                        "grande": 58,
+                        "venti": 64
+                    }
+                },
+                {
+                    "title": "Chocolate Cream Frappuccino",
+                    "description": "Kahve, süt, çikolata sosu, kar haline getirilmiş buz ve üzerinde çırpılmış krema ve çikolata sosu süslemesi",
+                    "prices": {
+                        "short": 0,
+                        "tall": 51,
+                        "grande": 58,
+                        "venti": 64
+                    }
+                },
+                {
+                    "title": "Coffee Frappuccino",
+                    "description": "Kahve, süt ve kar haline getirilmiş buz ve üzerinde çırpılmış krema süslemesi",
+                    "prices": {
+                        "short": 0,
+                        "tall": 50,
+                        "grande": 57,
+                        "venti": 63
+                    }
+                },
+                {
+                    "title": "Espresso Frappuccino",
+                    "description": "Kahve, espresso, süt ve kar haline getitrilmiş buz",
+                    "prices": {
+                        "short": 0,
+                        "tall": 50,
+                        "grande": 57,
+                        "venti": 63
+                    }
+                },
+                {
+                    "title": "Mocha Frappuccino",
+                    "description": "Kahve, süt, mocha sosu, kar haline getirilmiş buz ve üzerinde çırpılmış krema süslemesi",
+                    "prices": {
+                        "short": 0,
+                        "tall": 51,
+                        "grande": 58,
+                        "venti": 64
+                    }
+                },
+                {
+                    "title": "Strawberries & Cream Frappuccino",
+                    "description": "Süt, çilek sosu, kar haline getirilmiş buz ve üzerinde çırpılmış krema süslemesi",
+                    "prices": {
+                        "short": 0,
+                        "tall": 51,
+                        "grande": 58,
+                        "venti": 64
+                    }
+                },
+                {
+                    "title": "Vanilla Cream Frappuccino",
+                    "description": "Süt, vanilya şurubu, kar haline getirilmiş buz ve üzerinde çırpılmış krema süslemesi",
+                    "prices": {
+                        "short": 0,
+                        "tall": 51,
+                        "grande": 58,
+                        "venti": 64
+                    }
+                },
+                {
+                    "title": "White Chocolate Mocha Frappuccino",
+                    "description": "Kahve, süt, beyaz çikolata sos, kar haline getirilmiş buz ve üzerinde çırpılmış krema süslemesi",
+                    "prices": {
+                        "short": 0,
+                        "tall": 52,
+                        "grande": 59,
+                        "venti": 65
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Starbucks Refresha Drink",
+            "products": [
+                {
+                    "title": "Berry Hibiscus Starbucks Refresha Drink",
+                    "description": "Meyve özleri, böğürtlen-ahududu parçaları, yeşil çekirdek kahve özü ve buz",
+                    "prices": {
+                        "short": 0,
+                        "tall": 50,
+                        "grande": 57,
+                        "venti": 63
+                    }
+                },
+                {
+                    "title": "Cool Lime Starbucks Refresha Drink",
+                    "description": "Meyve özleri, misket limon dilimi, yeşil çekirdek kahve özü ve buz",
+                    "prices": {
+                        "short": 0,
+                        "tall": 50,
+                        "grande": 57,
+                        "venti": 63
+                    }
+                },
+                {
+                    "title": "Orange Mango Starbucks Refresha Drink",
+                    "description": "Meyve özleri, portakal dilimi, yeşil çekirdek kahve özü ve buz",
+                    "prices": {
+                        "short": 0,
+                        "tall": 50,
+                        "grande": 57,
+                        "venti": 63
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Filtre Kahveler",
+            "products": [
+                {
+                    "title": "Fresh Filter Coffee",
+                    "description": "Demlenmiş, dengeli, yoğun filtre kahve",
+                    "prices": {
+                        "short": 29,
+                        "tall": 32,
+                        "grande": 36,
+                        "venti": 41
+                    }
+                },
+                {
+                    "title": "Misto",
+                    "description": "Demlenmiş, dengeli, yoğun filtre kahve ve süt",
+                    "prices": {
+                        "short": 29,
+                        "tall": 32,
+                        "grande": 36,
+                        "venti": 41
+                    }
+                },
+                {
+                    "title": "French Press",
+                    "description": "İstediğiniz çekirdek kahve, kahve presinde demlenmektedir",
+                    "prices": {
+                        "short": 0,
+                        "3C (Tek Kişik)": 45,
+                        "4C (2 Kişilik)": 50,
+                        "8C (4 Kişilik)": 66
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Soğuk Demleme Kahveler",
+            "products": [
+                {
+                    "title": "Cold Brew",
+                    "description": "İri çekilmiş kahve çekirdeklerinin 20 saat boyunca soğuk ssuda demlenmesiyle hazırlanmış soğuk kahve ",
+                    "prices": {
+                        "short": 0,
+                        "tall": 41,
+                        "grande": 47,
+                        "venti": 52
+                    }
+                },
+                {
+                    "title": "Cold Brw Latte",
+                    "description": "İri çekilmiş kahve çekirdeklerinin 20 saat boyunca soğuk ssuda demlenmesiyle hazırlanmış soğuk kahve ve süt",
+                    "prices": {
+                        "short": 0,
+                        "tall": 43,
+                        "grande": 49,
+                        "venti": 54
+                    }
+                }
+            ]
+        }
+    ]
+}
