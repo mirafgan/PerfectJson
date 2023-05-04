@@ -1,4 +1,4 @@
-  {
+{
     "data": [
         {
             "id": 1,
@@ -8,7 +8,7 @@
             "is_adult": false,
             "is_fragile": false,
             "node_category_id": null,
-            "children": [
+            "child_ids": [
                 {
                     "id": 2,
                     "ref_category_id": null,
@@ -17,7 +17,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         {
                             "id": 5,
                             "ref_category_id": null,
@@ -611,7 +611,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         {
                             "id": 125,
                             "ref_category_id": null,
@@ -1145,7 +1145,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         91,
                         102,
                         93,
@@ -1196,7 +1196,7 @@
                     "is_adult": false,
                     "is_fragile": true,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         39,
                         22,
                         23,
@@ -1235,7 +1235,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         234,
                         231,
                         233,
@@ -1263,7 +1263,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         221,
                         205,
                         210,
@@ -1298,7 +1298,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         82,
                         71,
                         75,
@@ -1333,7 +1333,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         242,
                         248,
                         236,
@@ -1365,7 +1365,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         252,
                         253,
                         250,
@@ -1394,7 +1394,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         2925,
                         2926,
                         2929,
@@ -1422,7 +1422,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": null,
-                    "children": [
+                    "child_ids": [
                         4035,
                         4034,
                         4036,
@@ -1451,7 +1451,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": 628,
-                    "children": [
+                    "child_ids": [
                         632,
                         630,
                         635,
@@ -1480,7 +1480,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": 6,
-                    "children": [],
+                    "child_ids": [],
                     "node_type": "REF",
                     "parent_id": 1,
                     "view_mode": "products",
@@ -1501,7 +1501,7 @@
                     "is_adult": false,
                     "is_fragile": false,
                     "node_category_id": 2631,
-                    "children": [
+                    "child_ids": [
                         2645,
                         2648,
                         2644,
