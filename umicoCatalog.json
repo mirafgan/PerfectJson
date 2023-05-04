@@ -162,9 +162,69 @@
                                     "is_fragile": false,
                                     "node_category_id": null,
                                     "child_ids": [
-                                        229,
-                                        232,
-                                        230
+                                        {
+                                            "id": 229,
+                                            "ref_category_id": null,
+                                            "is_variant": false,
+                                            "show_by_variant": false,
+                                            "is_adult": false,
+                                            "is_fragile": false,
+                                            "node_category_id": null,
+                                            "child_ids": [],
+                                            "node_type": "NODE",
+                                            "parent_id": 514,
+                                            "view_mode": "products",
+                                            "icons": {
+                                                "thumbnail": "https://strgimgr.umico.az/catalog/226ec028796a2c2f656f9c80fc3e244e.jpg",
+                                                "original": "https://strgimgr.umico.az/catalog/20da7cf2ea3d699f2dcd56038b0ecf5c.jpg"
+                                            },
+                                            "fitting_allowed": false,
+                                            "ascii_icon": null,
+                                            "name": "Universal USB kabellər",
+                                            "slugged_name": "universal-usb-kabeller"
+                                        },
+                                        {
+                                            "id": 232,
+                                            "ref_category_id": null,
+                                            "is_variant": false,
+                                            "show_by_variant": false,
+                                            "is_adult": false,
+                                            "is_fragile": false,
+                                            "node_category_id": null,
+                                            "child_ids": [],
+                                            "node_type": "NODE",
+                                            "parent_id": 514,
+                                            "view_mode": "products",
+                                            "icons": {
+                                                "thumbnail": "https://strgimgr.umico.az/catalog/204624135dd093d43f2b99bce0c10a61.jpg",
+                                                "original": "https://strgimgr.umico.az/catalog/855413fe73832ca746cac664cdc73fd7.jpg"
+                                            },
+                                            "fitting_allowed": false,
+                                            "ascii_icon": "🔌",
+                                            "name": "Apple texnikası üçün kabellər",
+                                            "slugged_name": "apple-kabelleri"
+                                        },
+                                        {
+                                            "id": 230,
+                                            "ref_category_id": null,
+                                            "is_variant": false,
+                                            "show_by_variant": false,
+                                            "is_adult": false,
+                                            "is_fragile": false,
+                                            "node_category_id": null,
+                                            "child_ids": [],
+                                            "node_type": "NODE",
+                                            "parent_id": 514,
+                                            "view_mode": "products",
+                                            "icons": {
+                                                "thumbnail": "https://strgimgr.umico.az/catalog/f5ee6a88d4d0f26e4f796b0196b4c480.jpg",
+                                                "original": "https://strgimgr.umico.az/catalog/891c7ad8ae12fab932da1040f9890dc0.jpg"
+                                            },
+                                            "fitting_allowed": false,
+                                            "ascii_icon": null,
+                                            "name": "Micro USB, Type-C kabellər",
+                                            "slugged_name": "micro-usb-typec-kabeller"
+                                        }
                                     ],
                                     "node_type": "NODE",
                                     "parent_id": 7,
