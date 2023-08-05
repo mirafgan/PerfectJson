@@ -1,0 +1,639 @@
+{
+    "UdemyCategories": [
+        {
+            "CategoryID": 1,
+            "CategoryName": "Development",
+            "Subcategories": {
+                "Web Development": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "React",
+                    "Node.js",
+                    "Angular",
+                    "Vue.js"
+                ],
+                "Mobile App Development": [
+                    "Android Development",
+                    "iOS Development",
+                    "React Native",
+                    "Flutter",
+                    "Swift",
+                    "Kotlin"
+                ],
+                "Programming Languages": [
+                    "Python",
+                    "Java",
+                    "C#",
+                    "C++",
+                    "Ruby",
+                    "Go",
+                    "PHP"
+                ],
+                "Game Development": [
+                    "Unity",
+                    "Unreal Engine",
+                    "C# Game Development",
+                    "2D Game Development",
+                    "3D Game Development",
+                    "Game Design"
+                ],
+                "Software Testing": [
+                    "Selenium WebDriver",
+                    "Test Automation",
+                    "Performance Testing",
+                    "QA Testing",
+                    "Mobile App Testing"
+                ],
+                "Software Engineering": [
+                    "Software Design Patterns",
+                    "Agile Development",
+                    "Scrum",
+                    "Software Architecture",
+                    "Design Principles"
+                ],
+                "Database Design & Development": [
+                    "SQL",
+                    "MySQL",
+                    "MongoDB",
+                    "Oracle",
+                    "PostgreSQL",
+                    "Database Management"
+                ],
+                "Development Tools": [
+                    "Git",
+                    "Docker",
+                    "Jenkins",
+                    "Visual Studio Code",
+                    "DevOps",
+                    "Webpack"
+                ],
+                "No-Code Development": [
+                    "Bubble",
+                    "Webflow",
+                    "Airtable",
+                    "Zapier",
+                    "AppSheet",
+                    "Nintex"
+                ]
+            }
+        },
+        {
+            "CategoryID": 2,
+            "CategoryName": "Business",
+            "Subcategories": {
+                "Entrepreneurship": [
+                    "Startup",
+                    "Business Idea",
+                    "Business Plan",
+                    "Entrepreneur Mindset",
+                    "Business Fundamentals"
+                ],
+                "Finance": [
+                    "Financial Analysis",
+                    "Accounting",
+                    "Personal Finance",
+                    "Investing",
+                    "Cryptocurrency"
+                ],
+                "Sales": [
+                    "Sales Techniques",
+                    "Negotiation",
+                    "B2B Sales",
+                    "Cold Calling",
+                    "Sales Funnel"
+                ],
+                "Strategy": [
+                    "Business Strategy",
+                    "Marketing Strategy",
+                    "Growth Hacking",
+                    "Product Management",
+                    "Competitive Analysis"
+                ],
+                "Project Management": [
+                    "PMP",
+                    "Agile Project Management",
+                    "Scrum",
+                    "Kanban",
+                    "Project Planning"
+                ],
+                "Business Analytics": [
+                    "Data Analysis",
+                    "Data Visualization",
+                    "Tableau",
+                    "Power BI",
+                    "Google Analytics"
+                ],
+                "Leadership": [
+                    "Leadership Skills",
+                    "Team Management",
+                    "Emotional Intelligence",
+                    "Change Management",
+                    "Conflict Resolution"
+                ],
+                "Communication": [
+                    "Public Speaking",
+                    "Presentation Skills",
+                    "Business Writing",
+                    "Negotiation",
+                    "Interpersonal Communication"
+                ],
+                "Human Resources": [
+                    "HR Management",
+                    "Recruitment",
+                    "Employee Training",
+                    "Performance Management",
+                    "HR Fundamentals"
+                ]
+            }
+        },
+        {
+            "CategoryID": 3,
+            "CategoryName": "IT & Software",
+            "Subcategories": {
+                "IT Certification": [
+                    "CompTIA A+",
+                    "Cisco CCNA",
+                    "AWS Certified Solutions Architect",
+                    "Microsoft Certified Azure Administrator"
+                ],
+                "Network & Security": [
+                    "Computer Networking",
+                    "Ethical Hacking",
+                    "Cybersecurity Fundamentals",
+                    "Network Security"
+                ],
+                "Operating Systems": [
+                    "Windows Administration",
+                    "Linux System Administration",
+                    "macOS User Support",
+                    "UNIX Fundamentals"
+                ],
+                "Hardware": [
+                    "PC Building and Repair",
+                    "Mobile Device Repair",
+                    "Networking Hardware",
+                    "Embedded Systems"
+                ],
+                "Software Tools": [
+                    "Microsoft Office",
+                    "Adobe Creative Suite",
+                    "Programming IDEs",
+                    "Data Analysis Tools"
+                ],
+                "Data Science": [
+                    "Python for Data Science",
+                    "Data Visualization",
+                    "Machine Learning",
+                    "Big Data Analytics"
+                ],
+                "Artificial Intelligence": [
+                    "Natural Language Processing",
+                    "Computer Vision",
+                    "Deep Learning",
+                    "Reinforcement Learning"
+                ],
+                "Cloud Computing": [
+                    "Amazon AWS",
+                    "Microsoft Azure",
+                    "Google Cloud Platform",
+                    "Cloud Architecture"
+                ]
+            }
+        },
+        {
+            "CategoryID": 4,
+            "CategoryName": "Design",
+            "Subcategories": {
+                "Graphic Design": [
+                    "Adobe Illustrator",
+                    "Adobe Photoshop",
+                    "Logo Design",
+                    "Brand Identity Design",
+                    "Typography"
+                ],
+                "Web Design": [
+                    "HTML",
+                    "CSS",
+                    "Responsive Design",
+                    "UI/UX Design",
+                    "Web Development"
+                ],
+                "Game Design": [
+                    "Unity",
+                    "Unreal Engine",
+                    "Character Design",
+                    "Level Design",
+                    "Game Art"
+                ],
+                "User Experience (UX)": [
+                    "User Research",
+                    "Wireframing",
+                    "Prototyping",
+                    "Usability Testing",
+                    "UX Design Principles"
+                ],
+                "Design Tools": [
+                    "Figma",
+                    "Sketch",
+                    "Adobe XD",
+                    "InVision",
+                    "Zeplin"
+                ],
+                "3D & Animation": [
+                    "Blender",
+                    "Maya",
+                    "3D Modeling",
+                    "Character Animation",
+                    "VFX"
+                ],
+                "Interior Design": [
+                    "Home Decoration",
+                    "AutoCAD",
+                    "Interior Styling",
+                    "Color Theory",
+                    "Space Planning"
+                ],
+                "Fashion Design": [
+                    "Sewing",
+                    "Pattern Making",
+                    "Fashion Sketching",
+                    "Textile Design",
+                    "Fashion Illustration"
+                ]
+            }
+        },
+        {
+            "CategoryID": 5,
+            "CategoryName": "Personal Development",
+            "Subcategories": {
+                "Personal Transformation": [
+                    "Self Esteem",
+                    "Confidence",
+                    "Mindfulness",
+                    "Happiness",
+                    "Personal Productivity"
+                ],
+                "Productivity": [
+                    "Time Management",
+                    "Goal Setting",
+                    "Focus Mastery",
+                    "Procrastination",
+                    "Organizational Skills"
+                ],
+                "Leadership": [
+                    "Leadership Skills",
+                    "Team Management",
+                    "Emotional Intelligence",
+                    "Change Management",
+                    "Conflict Resolution"
+                ],
+                "Personal Finance": [
+                    "Budgeting",
+                    "Investing",
+                    "Financial Planning",
+                    "Retirement Planning",
+                    "Debt Management"
+                ],
+                "Career Development": [
+                    "Job Search",
+                    "Resume Writing",
+                    "Interview Skills",
+                    "Networking",
+                    "Career Change"
+                ],
+                "Parenting & Relationships": [
+                    "Parenting Skills",
+                    "Child Psychology",
+                    "Communication",
+                    "Marriage Counseling",
+                    "Dating Advice"
+                ],
+                "Happiness": [
+                    "Positive Psychology",
+                    "Gratitude",
+                    "Mindfulness",
+                    "Self Love",
+                    "Emotional Well-Being"
+                ],
+                "Religion & Spirituality": [
+                    "Meditation",
+                    "Yoga",
+                    "Buddhism",
+                    "Christianity",
+                    "Islam"
+                ]
+            }
+        },
+        {
+            "CategoryID": 6,
+            "CategoryName": "Health & Fitness",
+            "Subcategories": {
+                "Fitness": [
+                    "Weight Training",
+                    "Cardio Workouts",
+                    "Yoga",
+                    "Pilates",
+                    "HIIT"
+                ],
+                "Nutrition": [
+                    "Healthy Eating",
+                    "Meal Planning",
+                    "Dieting",
+                    "Intermittent Fasting",
+                    "Keto Diet"
+                ],
+                "Mental Health": [
+                    "Stress Management",
+                    "Anxiety Relief",
+                    "Mindfulness",
+                    "Meditation",
+                    "Self-Care"
+                ],
+                "Yoga": [
+                    "Vinyasa Yoga",
+                    "Hatha Yoga",
+                    "Yoga for Flexibility",
+                    "Meditation",
+                    "Yoga for Weight Loss"
+                ],
+                "Dieting": [
+                    "Weight Loss",
+                    "Keto Diet",
+                    "Vegan Diet",
+                    "Paleo Diet",
+                    "Plant-Based Nutrition"
+                ],
+                "Weight Loss": [
+                    "Lose Belly Fat",
+                    "Fat Burning Workouts",
+                    "Diet Plans",
+                    "Calorie Counting",
+                    "Portion Control"
+                ],
+                "Meditation": [
+                    "Mindfulness Meditation",
+                    "Guided Meditation",
+                    "Transcendental Meditation",
+                    "Breathwork",
+                    "Yoga Nidra"
+                ],
+                "Self Defense": [
+                    "Krav Maga",
+                    "Brazilian Jiu-Jitsu",
+                    "Boxing",
+                    "Women's Self Defense",
+                    "Martial Arts"
+                ]
+            }
+        },
+        {
+            "CategoryID": 7,
+            "CategoryName": "Languages",
+            "Subcategories": {
+                "English": [
+                    "English Grammar",
+                    "Conversation Skills",
+                    "Business English",
+                    "TOEFL Preparation",
+                    "IELTS Preparation"
+                ],
+                "Spanish": [
+                    "Spanish Vocabulary",
+                    "Spanish Grammar",
+                    "Spanish for Beginners",
+                    "Conversational Spanish",
+                    "DELE Exam Preparation"
+                ],
+                "Chinese": [
+                    "Mandarin Chinese",
+                    "Chinese Characters",
+                    "Chinese for Beginners",
+                    "Conversational Chinese",
+                    "HSK Exam Preparation"
+                ],
+                "French": [
+                    "French Vocabulary",
+                    "French Grammar",
+                    "French for Beginners",
+                    "Conversational French",
+                    "DELF Exam Preparation"
+                ],
+                "German": [
+                    "German Vocabulary",
+                    "German Grammar",
+                    "German for Beginners",
+                    "Conversational German",
+                    "Goethe-Zertifikat Preparation"
+                ],
+                "Japanese": [
+                    "Japanese Vocabulary",
+                    "Japanese Kanji",
+                    "Japanese for Beginners",
+                    "Conversational Japanese",
+                    "JLPT Exam Preparation"
+                ],
+                "Arabic": [
+                    "Arabic Alphabet",
+                    "Arabic Grammar",
+                    "Arabic for Beginners",
+                    "Conversational Arabic",
+                    "Arabic Calligraphy"
+                ],
+                "Italian": [
+                    "Italian Vocabulary",
+                    "Italian Grammar",
+                    "Italian for Beginners",
+                    "Conversational Italian",
+                    "CELI Exam Preparation"
+                ]
+            }
+        },
+        {
+            "CategoryID": 8,
+            "CategoryName": "Lifestyle",
+            "Subcategories": {
+                "Arts & Crafts": [
+                    "Drawing",
+                    "Painting",
+                    "Calligraphy",
+                    "Crafting",
+                    "Photography"
+                ],
+                "Travel": [
+                    "Travel Hacking",
+                    "Digital Nomad",
+                    "Budget Travel",
+                    "Adventure Travel",
+                    "Travel Photography"
+                ],
+                "Gaming": [
+                    "Video Game Design",
+                    "Game Development",
+                    "Game Art",
+                    "Game Testing",
+                    "Unity"
+                ],
+                "Pet Care & Training": [
+                    "Dog Training",
+                    "Cat Care",
+                    "Pet First Aid",
+                    "Pet Behavior",
+                    "Pet Grooming"
+                ],
+                "Home Improvement": [
+                    "DIY",
+                    "Home Repair",
+                    "Interior Design",
+                    "Landscaping",
+                    "Renovation"
+                ],
+                "Beauty & Makeup": [
+                    "Makeup Artistry",
+                    "Skincare",
+                    "Hair Styling",
+                    "Nail Art",
+                    "Beauty Tips"
+                ],
+                "Photography": [
+                    "Digital Photography",
+                    "Portrait Photography",
+                    "Photo Editing",
+                    "Photography Tools",
+                    "Commercial Photography"
+                ],
+                "Cooking": [
+                    "Cooking Basics",
+                    "Baking",
+                    "International Cuisine",
+                    "Vegetarian Cooking",
+                    "Meal Prep"
+                ]
+            }
+        },
+        {
+            "CategoryID": 9,
+            "CategoryName": "Photography",
+            "Subcategories": {
+                "Digital Photography": [
+                    "DSLR Photography",
+                    "Photography Composition",
+                    "Camera Settings",
+                    "Lighting Techniques",
+                    "Photo Retouching"
+                ],
+                "Portrait Photography": [
+                    "Posing",
+                    "Natural Light Portraits",
+                    "Indoor Portrait Photography",
+                    "Environmental Portraits",
+                    "Fashion Portraits"
+                ],
+                "Photo Editing": [
+                    "Adobe Lightroom",
+                    "Photoshop Retouching",
+                    "Portrait Retouching",
+                    "Photo Restoration",
+                    "Color Grading"
+                ],
+                "Photography Tools": [
+                    "Photography Gear",
+                    "Camera Accessories",
+                    "Tripods & Stabilization",
+                    "Studio Lighting",
+                    "Lens Selection"
+                ],
+                "Commercial Photography": [
+                    "Product Photography",
+                    "Food Photography",
+                    "Architecture Photography",
+                    "Corporate Headshots",
+                    "Event Photography"
+                ],
+                "Video Design": [
+                    "Video Editing",
+                    "Cinematography",
+                    "Videography",
+                    "Color Grading",
+                    "Motion Graphics"
+                ],
+                "Travel Photography": [
+                    "Landscape Photography",
+                    "Cityscape Photography",
+                    "Wildlife Photography",
+                    "Travel Videography",
+                    "Adventure Photography"
+                ],
+                "Street Photography": [
+                    "Documentary Photography",
+                    "Urban Exploration",
+                    "Street Portraits",
+                    "Candid Photography",
+                    "Storytelling through Photos"
+                ]
+            }
+        },
+        {
+            "CategoryID": 10,
+            "CategoryName": "Music",
+            "Subcategories": {
+                "Instruments": [
+                    "Guitar",
+                    "Piano",
+                    "Singing",
+                    "Drums",
+                    "Violin"
+                ],
+                "Production": [
+                    "Music Production",
+                    "Electronic Music Production",
+                    "Beatmaking",
+                    "Music Mixing",
+                    "Songwriting"
+                ],
+                "Music Fundamentals": [
+                    "Music Theory",
+                    "Ear Training",
+                    "Music Reading",
+                    "Sight Singing",
+                    "Rhythm Training"
+                ],
+                "Vocal": [
+                    "Singing Techniques",
+                    "Voice Training",
+                    "Stage Performance",
+                    "Vocal Recording",
+                    "Harmony Singing"
+                ],
+                "Music Techniques": [
+                    "Guitar Techniques",
+                    "Piano Techniques",
+                    "Drumming Techniques",
+                    "Orchestration",
+                    "Jazz Improvisation"
+                ],
+                "Music Software": [
+                    "Ableton Live",
+                    "Logic Pro X",
+                    "FL Studio",
+                    "Pro Tools",
+                    "GarageBand"
+                ],
+                "Music Composition": [
+                    "Songwriting",
+                    "Composition Techniques",
+                    "Arranging Music",
+                    "Film Scoring",
+                    "Orchestration"
+                ],
+                "Music Theory": [
+                    "Music Notation",
+                    "Chord Progressions",
+                    "Scales and Modes",
+                    "Harmony and Counterpoint",
+                    "Analysis of Classical Music"
+                ]
+            }
+        }
+    ]
+}
