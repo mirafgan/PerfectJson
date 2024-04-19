@@ -14,6 +14,6 @@
   { "id": 13, "img": "https://www.papajohns.az/uploads/images/hot_and_spaysi.jpg", "name": "Hot and Spaysi", "desc": "Mal Əti, Pomidor, Yaşıl Bibər, Halapenyo Bibəri, Mozzarella Pendiri", "cath": ["meat", "spicy"], "price": {"xs": 5.5, "sm": 10, "md": 16, "lg": 21} },
   { "id": 14, "img": "https://www.papajohns.az/uploads/images/desert/Mushroom%20320x220%20px.jpg", "name": "Çiken Göbələk", "desc": "Qril toyuq, Turşu xiyar, Göbələk, Mozzarella, Göbələk sousu", "cath": ["chick",], "price": {"sm": 12, "md": 19, "lg": 23} },
   { "id": 15, "img": "https://www.papajohns.az/uploads/images/pizza/4-pendir.png", "name": "4 Pendir", "desc": "Pizza sousu, Mozzarella Pendiri, Feta Penidiri, Parmezan Pendiri, Cheddar Pendiri", "cath": ["vegan"], "price": {"sm": 11, "md": 16, "lg": 22} },
-  { "id": 16, "img": "https://www.papajohns.az/uploads/images/Marinera.jpg", "name": "Marinera", "desc": "Ton Balığı, Yaşıl Bibər, Qara Zeytun, Mozzarella Pendiri", "cath": ["vegan"], "price": {"xs": 5.5, "sm": 10, "md": 18, "lg": 22} },
-];
+  { "id": 16, "img": "https://www.papajohns.az/uploads/images/Marinera.jpg", "name": "Marinera", "desc": "Ton Balığı, Yaşıl Bibər, Qara Zeytun, Mozzarella Pendiri", "cath": ["vegan"], "price": {"xs": 5.5, "sm": 10, "md": 18, "lg": 22} }
+]
 }
